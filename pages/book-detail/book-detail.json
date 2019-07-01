@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "v-tag": "/components/tag/tag",
+    "v-like": "/components/like/index",
+    "v-mask": "/components/mask/mask",
+    "v-imgbutton": "/components/image-button/image-button"
+  }
+}

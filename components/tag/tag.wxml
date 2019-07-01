@@ -1,0 +1,9 @@
+<view bind:tap="onTap" class="container  tag-class">
+  <text class="tag">{{title}}</text>
+
+  <slot class="befor" name="before"></slot>
+  <slot name="after">
+    <!-- //zu zujian wai bu cha yi ge text zai waibu bu chuangru  kong de cha cao jiu meiyou   wo haiky  renyi yige xiao chengxu de biaoqian -->
+
+  </slot>
+</view>
